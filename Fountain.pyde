@@ -1,6 +1,3 @@
-import sys
-
-sys.path.append(".")
 from particle import Particle
 from system import ParticleSystem
 from util import *
